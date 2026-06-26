@@ -1,4 +1,6 @@
 {
     "Version": "4",
+    "MLP": "4",
+    "OPHost": "15",
     "omegalox": true
 }
